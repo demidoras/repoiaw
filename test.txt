@@ -1,1 +1,2 @@
 Esta es la actividad de GIT de Aster
+Ha pasado algo y hay 2 ramas
