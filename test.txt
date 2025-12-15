@@ -1,3 +1,5 @@
 Esta es la actividad de GIT de Aster
 Ha pasado algo y hay 2 ramas
-conflicto local
+Creacion de conflicto en remoto.
+Creacion de conflicto local.
+
