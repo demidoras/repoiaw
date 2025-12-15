@@ -1,3 +1,5 @@
 Esto es lo que estamos trabajando en clase de IAW el lunes 15 de diciembre de 2025
 
 Seguimos modificando nuestro repositorio, ahora incluyendo ramas nuevas.
+
+Second test: verifying how GitHub interprets these changes. This line would constitute commit v3.
